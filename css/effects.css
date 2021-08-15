@@ -1,0 +1,41 @@
+
+.footer,
+.mybtn2,
+.newsletter-section::before,
+.testimonial-section .owl-carousel .owl-nav button.owl-next:hover,
+.testimonial-section .owl-carousel .owl-nav button.owl-prev:hover,
+.testimonial-section::before,
+.products-section .owl-carousel .owl-nav button.owl-next,
+.products-section .owl-carousel .owl-nav button.owl-prev,
+.features-section .features-item:hover,
+.section-title .title::before {
+    background-color: #d70d25;
+}
+
+.footer .footer-social-links a:hover i,
+.contact-section .contact-item h5,
+.contact-section .contact-item .icon i,
+.faq-section .support-text a,
+.testimonial-section .owl-carousel .owl-nav button.owl-next,
+.testimonial-section .owl-carousel .owl-nav button.owl-prev,
+.testimonial-section .client-info h5,
+.products-section .product-content .product-price .new-price,
+.features-section .features-item .icon i,
+.about-section .about-content ul li i,
+.mybtn1:hover,
+.section-title .title {
+    color: #d70d25;
+}
+
+.mybtn1:focus {
+    box-shadow: none;
+}
+
+.overlay a {
+    color: red;
+}
+
+.contact-section .contact-form .form-control:focus,
+.testimonial-section .client-info img {
+    border-color: #d70d25;
+}
