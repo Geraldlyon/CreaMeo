@@ -917,6 +917,10 @@ a {
 
 .footer .copyright p {
     margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    color: #eeeeee;
+    font-weight: 400;
 }
 
 /* ----- Footer Section End ----- */
