@@ -1,4 +1,7 @@
 
+.header .navbar-light .navbar-toggler-icon::after,
+.header .navbar-light .navbar-toggler-icon::before,
+ .header .navbar-light .navbar-toggler-icon,
 .footer,
 .mybtn2,
 .newsletter-section::before,
@@ -38,4 +41,12 @@
 .contact-section .contact-form .form-control:focus,
 .testimonial-section .client-info img {
     border-color: #d70d25;
+}
+
+
+
+@media (max-width: 991px) {
+    .header .navbar #navbarSupportedContent .navbar-nav .nav-item .nav-link {
+        color: #d70d25;
+    }
 }

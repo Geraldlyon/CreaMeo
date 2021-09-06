@@ -1,5 +1,8 @@
 $(document).ready(function(){
 
+    // Adding scrollspy to
+    $('body').scrollspy({target: ".navbar-nav", offset: 67})
+
     // Product Carousel
     $('#product-carousel').owlCarousel({
         loop:true,
